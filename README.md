@@ -11,18 +11,18 @@ The project aims at analyzing the various aerial images and solving any particul
 
 ## Methodology
 
-![]()
+![Methodlogy](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Model%20Proposed.png)
 
 ## Results
 
-![Evaluation matrix]()
+![Evaluation matrix](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Capture.PNG)
 
-## Further Work
+## Further Work - Built SIMULO (free hand Web based tool to work with images)
 
 We came to idea of building an Simulation tool which can be used to build  NEURAL NETWORK and analyze performance by manipulating parameters.
 
-![]()
+![image Segmentation](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Image%20Segmentataion.png)
 
-![]()
+![Feature Description](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Feature%20description.png)
 
-![]()
+![CNN model](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/CNN.png)
