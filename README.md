@@ -21,8 +21,10 @@ The project aims at analyzing the various aerial images and solving any particul
 
 We came to idea of building an Simulation tool which can be used to build  NEURAL NETWORK and analyze performance by manipulating parameters.
 
-![image Segmentation](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Image%20Segmentataion.png)
 
 ![Feature Description](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Feature%20description.png)
+
+![image Segmentation](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/Image%20Segmentataion.png)
+
 
 ![CNN model](https://github.com/Ashleshk/Vehicle-Detection-using-Aerial-Imagery-using-deep-Learning-Algorithm/blob/main/CNN.png)
